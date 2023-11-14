@@ -66,6 +66,7 @@ button{
     color: #fff;
     font-size: 16px;
     cursor: pointer;
+    align-items: end;
 }
 
 ul li{
