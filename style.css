@@ -42,7 +42,7 @@ html,body{
 .row{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: #edeefe;
     border-radius: 30px;
     padding-left: 20px;
